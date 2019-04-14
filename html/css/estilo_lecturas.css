@@ -1,0 +1,47 @@
+
+/*body{
+margin: 0;
+padding: 0; 
+background-color: #ffffff ;
+}*/
+
+#parrafo{
+	padding: 2 auto;
+	width: 625px;
+	height: 660px;
+	border-color: #ffffff;
+	border-width: 100 auto;
+	border-style: solid;
+	background-color: #2271b3;
+	margin: 5 auto;
+	font-family: "angsa";
+}
+#parrafoprin{
+	padding: 2 auto;
+	width: 800px;
+	height: 790px;
+	border-color: #ffffff;
+	border-width: 100 auto;
+	border-style: solid;
+	background-color: #2271b3;
+	margin: 5 auto;
+	font-family: "angsa";
+}
+#primero{
+	color: #ffffff;
+	margin: 2 auto;
+	padding: 0;
+	text-align: center;
+}
+#articulo{
+	color: #ffffff;
+	margin: 2 auto;
+	padding: 0;
+	text-align: center;
+}
+#ReferenciaI{
+	color: #000000;
+	padding: 3 auto;
+}
+
+

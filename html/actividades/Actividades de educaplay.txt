@@ -1,0 +1,16 @@
+﻿<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/es/recursoseducativos/4407245/html5/proceso_de_identificacion_de.htm"></iframe>
+
+<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/es/recursoseducativos/4412868/html5/intro_desarrollo_software.htm"></iframe>
+
+
+<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/es/recursoseducativos/4131165/html5/modelos_ingenieria_de_software.htm"></iframe>
+
+
+<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/es/recursoseducativos/4377474/html5/ciclo_de_vida_del_software.htm"></iframe>
+
+
+<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/es/recursoseducativos/3620857/html5/crucigrama_etapa_de_analisis.htm"></iframe>
+
+
+
+<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/es/recursoseducativos/4098550/html5/etapas_desarrollo_de_software.htm"></iframe>
