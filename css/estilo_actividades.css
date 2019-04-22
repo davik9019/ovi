@@ -1,0 +1,49 @@
+
+body{
+margin:: 0;
+padding: 0; 
+background-color: #ffffff ;
+}
+
+.primactividad{
+	width: 456px;
+	height: 456px;
+	border-width: 50px;
+	border-style: solid;
+	border-color: #ffffff;
+}
+.segundactividad{
+	width: 456px;
+	height: 456px;
+	border-width: 50px;
+	border-style: solid;
+	border-color: #ffffff;
+}
+.terceraactividad{
+	width: 456px;
+	height: 456px;
+	border-width: 50px;
+	border-style: solid;
+	border-color: #ffffff;
+}
+.cuartaactividad{
+	width: 456px;
+	height: 456px;
+	border-width: 50px;
+	border-style: solid;
+	border-color: #ffffff;
+}
+.quintactividad{
+	width: 456px;
+	height: 456px;
+	border-width: 50px;
+	border-style: solid;
+	border-color: #ffffff;
+}
+.sextaactividad{
+	width: 456px;
+	height: 456px;
+	border-width: 50px;
+	border-style: solid;
+	border-color: #ffffff;
+}

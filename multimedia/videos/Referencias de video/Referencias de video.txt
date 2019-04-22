@@ -1,0 +1,17 @@
+﻿ 
+Referencias de video
+
+Analisis de requerimientos:
+https://www.youtube.com/watch?v=50aSAUFrALk
+
+Requerimientos funcionales y no funmcionales:
+https://www.youtube.com/watch?v=0BeC4Z70GpY
+
+Ciclo de vide del software:
+https://www.youtube.com/watch?v=Z9LNk12ndm4 
+
+Desarrollo de software Informática:
+https://www.youtube.com/watch?v=2sg5XwrrKR4
+
+Importancia al desarrollo de software:
+https://ceplatam.com/blog/Importancia-del-desarrollo-de-software

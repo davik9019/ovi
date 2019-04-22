@@ -1,0 +1,94 @@
+
+body{
+margin:: 0;
+padding: 0; 
+background-color: #ffffff ;
+}
+#parrafo{
+	padding-left:  70px;
+	padding-top: 80px;
+	margin: 5px;
+}	
+#Fondo{
+	background-color: #e1e1e1;
+	height: 1000px;
+	margin: 0 auto;
+	width: 1370px;
+}	
+
+#primero{
+	border-radius: 5px;
+	background-color: #005883;
+	height: 150px;
+	margin: 0 auto;
+	padding-left: 2px;
+	padding-top: 2px;
+	width: 610px;
+	float: left;
+	font-family: "angsa";
+}	
+#segundo{
+	border-radius: 5px;
+	background-color: #005883;
+	height: 50px;
+	margin: 1 auto;
+	width: 610px;
+	float: left;
+	font-family: "angsa";
+}	
+@font-face{
+	font-family: "angsa";
+	src:url(tipogrfias/angsa.ttf);
+}
+.navegador{
+	width: 1370px;
+	margin: 1000 auto;
+	background: #f0b429;
+}
+.navegador ul{
+	list-style-type: none; 
+	
+}
+.menu > li{
+	position: relative;
+	display: inline-block;
+}
+.menu > li > a{
+	display: block;
+	padding: 10px 15px;
+	color: #ffffff;
+	font-family: "franklin";
+	text-decoration: none;
+}
+@font-face{
+	font-family: "franklin";
+	src:url(tipogrfias/franklin-gothic-heavy.ttf);
+}
+.Subitem{
+	position: absolute;
+	background: #005883
+	width 120%;
+	display: : none;
+	opacity: 0;
+	transition: opacity 1.5s;
+}
+.Subitem li a{
+	display: block;
+	padding: 15px;
+	color:#828282;
+	font-family: franklinbook;
+	text-decoration: none;
+}
+@font-face{
+	font-family: "franklinbook";
+	src:url(tipogrfias/franbk.ttf);
+}
+.menu li:hover .Subitem{
+	display: block;
+}
+
+button:hover {
+background: rgba(0,0,0,0);
+color: #3a7999;
+box-shadow: inset 0 0 0 3px #3a7999;
+}
